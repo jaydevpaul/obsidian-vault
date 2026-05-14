@@ -1,16 +1,4 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "calendar",
-  "obsidian-style-settings",
-  "obsidian-icon-folder",
-  "file-explorer-note-count",
-  "code-styler",
-  "file-explorer-plus",
-  "omnisearch",
-  "cmdr",
-  "templater-obsidian",
-  "dataview",
-  "periodic-notes",
-  "heatmap-calendar"
+  "obsidian-git"
 ]
