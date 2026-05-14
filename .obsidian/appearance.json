@@ -2,8 +2,6 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "extended-colorschemes",
-    "Colored Sidebar Items",
-    "Rainbow Folder Enhanced",
     "heading-colors"
   ],
   "interfaceFontFamily": "JetBrains Mono",
