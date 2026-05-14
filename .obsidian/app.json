@@ -1,1 +1,10 @@
-{}
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "05_Meta/Attachments",
+  "openBehavior": "file:05_Meta/Dashboards/Home Dashboard",
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "focusNewTab": true,
+  "spellcheck": false
+}
