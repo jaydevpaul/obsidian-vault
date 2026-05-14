@@ -1,10 +1,10 @@
 {
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
-    "extended-colorschemes",
     "Colored Sidebar Items",
     "Rainbow Folder Enhanced",
-    "heading-colors"
+    "heading-colors",
+    "extended-colorschemes"
   ],
   "interfaceFontFamily": "JetBrains Mono",
   "accentColor": "",
