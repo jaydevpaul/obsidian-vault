@@ -96,3 +96,9 @@ MOCs:
 	    - Connect to various LLM providers using your own API keys
 	    - Intelligent model routing between providers
 	    - Comparative testing of different models
+	- ### Gaps
+		- in a chat window each user msg and ai response is a node in canvas if multiple pair of user msg and ai response is present in a chat window it just stacks nodes on top of each other
+		- for branching you have to be on the specific node and then press branch button to branch out from the  node so no option of selecting a word or para in ai response and then branch out.
+		- No option of project folder setup like claude which have all the chats in a cluster
+		- the branching out of next query is also asked in the same chat window only thing it solves is easier to reach any response because of the nodes in canvas but still the chat window clutters everything
+	
