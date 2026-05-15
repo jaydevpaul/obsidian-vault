@@ -101,4 +101,10 @@ MOCs:
 		- for branching you have to be on the specific node and then press branch button to branch out from the  node so no option of selecting a word or para in ai response and then branch out.
 		- No option of project folder setup like claude which have all the chats in a cluster
 		- the branching out of next query is also asked in the same chat window only thing it solves is easier to reach any response because of the nodes in canvas but still the chat window clutters everything
-	
+
+
+I have checked some apps form HN aslo there also same problem the branching out happens out of an entire AI response and no option to select some specific part of the response and dig deep 
+
+
+## Links 
+https://a9.io/glue-comic/page-2
