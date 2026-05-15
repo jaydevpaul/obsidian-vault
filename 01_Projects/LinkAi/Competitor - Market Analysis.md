@@ -26,4 +26,5 @@ MOCs:
 	- no context management process
 	- too big of a convo with ai clutters the canvas makes it look complex
 - ### [graphRAG](https://github.com/severian42/GraphRAG-Local-UI)
+	- most close to the idea i have. I think somewhat better because this guy has read research papers for this too
 	- 
