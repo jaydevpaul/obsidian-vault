@@ -12,4 +12,5 @@ MOCs:
 # Overview
 ![[Pasted image 20260515113326.png|333]]
 ## Competitor List
-- Gitchat
+- [gitchat](https://github.com/DrustZ/GitChat)
+- 
