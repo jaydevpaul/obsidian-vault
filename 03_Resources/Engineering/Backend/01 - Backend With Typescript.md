@@ -85,7 +85,7 @@ Think of a class as a **blueprint** or a factory for creating things. If we are 
 
 JavaScript
 
-```
+```js
 class Player {
     // The constructor is the setup phase when a new player is born
     constructor(playerName) {
@@ -131,7 +131,7 @@ Imagine Mario writes a sticky note that says: **"Hi, I am [my name]."** He hands
 
 JavaScript
 
-```
+```js
 const mario = new Player("Mario");
 
 // We take the function AWAY from Mario and store it in a generic variable
@@ -157,7 +157,7 @@ How do we fix the sticky note problem? We use `bind()`.
 
 JavaScript
 
-```
+```js
 const mario = new Player("Mario");
 
 // We create a NEW sticky note, and permanently attach Mario to it
@@ -181,7 +181,7 @@ If we change our class to use an arrow function:
 
 JavaScript
 
-```
+```js
 class Player {
     constructor(playerName) {
         this.name = playerName;
