@@ -31,6 +31,11 @@ MOCs:
 	- Allows unified system prompt, selecting models, tools use like web search, token usage data, modify/ arrange nodes.
 	- option for compressed context
 	- Claude project like setup
+	-  Pick one or more enabled models (sending one message creates parallel branches)
+	- Pick a compression model (for summaries/meta instructions)
+	- Pick a title model (for thread titles)
+	- Send a message once; if multiple models are selected, you’ll get multiple assistant branches.
+	- Use the branch list to switch, or continue from any node.
 	- #### [ Key Features accordint to them](https://github.com/yxp934/Prompt-Tree#key-features)
 		-  **Conversation DAG (tree + branches)**: continue from any node and compare outcomes.
 		- **Canvas + chat in one place**: visualize the thread while you talk.
@@ -50,4 +55,5 @@ MOCs:
 		- **Local-first storage**: conversations in IndexedDB; settings (providers/tools) in localStorage.
 
 	- ### Gaps
+	- Branching happens cause of multiple models still select specific part of the response and branching not present which is our basic need
 	- 
