@@ -56,4 +56,43 @@ MOCs:
 
 	- ### Gaps
 	- Branching happens cause of multiple models still select specific part of the response and branching not present which is our basic need
-	- 
+- ### [treeGPT](https://github.com/jamesmoore24/treegpt)
+	1. **Tangential Conversations**
+		- Traditional interfaces don't allow for branching conversations
+	    - TreeGPT enables chat tangents with easy context control
+	2. **Natural Language Search**
+	    - Search through chats using natural language descriptions
+	    - Uses metadata embeddings and RAG lookup for better search results
+	3. **Token Management**
+	    - Real-time token usage tracking and cost estimation
+	    - Control over output length and context window
+	4. **Model Selection**
+	    - Intelligent model routing based on heuristics and benchmarks
+	    - Support for multiple providers (OpenAI, Anthropic, Gemini, DeepSeek
+	###  [Key Features](https://github.com/jamesmoore24/treegpt#key-features)
+	5. **Interactive Tree Visualization**
+	    - Mini-map showing the conversation tree
+	    - Visual "context lineage" highlighting
+	    - Node summaries and hover previews
+	6. **Vim-like Keybindings**
+	    - Toggle between "chatting" and "viewing" modes [`]
+	    - Tree navigation with [j] for up, [1-9] for edge selection
+	    - Root navigation [r]
+	    - Search functionality [/]
+	    - Node editing [e]
+	    - Node deletion [dd]
+	7. **Model Selection Shortcuts**
+	    - 1 - Select Llama 3.1 (8B)
+		 - Select Llama 3.3 (70B)
+	    - 3 - Select Llama 4 Scout (17B)
+	    - 4 - Select Qwen 3 (32B)
+	    - 5 - Select DeepSeek Chat
+	    - 6 - Select DeepSeek Reasoner
+	8. **Advanced Architecture**
+	    - Tree-based data modeling for efficient search and caching
+	    - LiteLLM integration for API and context management
+	    - Support for personal API keys or subscription-based usage
+	9. **Multi-Model Support**
+	    - Connect to various LLM providers using your own API keys
+	    - Intelligent model routing between providers
+	    - Comparative testing of different models
