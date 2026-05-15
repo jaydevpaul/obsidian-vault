@@ -26,4 +26,9 @@ MOCs:
 	- no context management process
 	- too big of a convo with ai clutters the canvas makes it look complex
 - ### [Prompt-Tree](https://github.com/yxp934/Prompt-Tree)
+	- Very close to what i am planning
+	- it also models each chat as a node based DAG
+	- Allows unified system prompt, selecting models, tools use like web search, token usage data, modify/ arrange nodes.
+	- option for compressed context
+	- Claude project like setup
 	- 
