@@ -25,4 +25,5 @@ MOCs:
 	- no option of clicking on the selected part leading to the related questions chat
 	- no context management process
 	- too big of a convo with ai clutters the canvas makes it look complex
-- ### 
+- ### [graphRAG](https://github.com/severian42/GraphRAG-Local-UI)
+	- 
