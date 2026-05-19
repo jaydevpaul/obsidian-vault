@@ -8,3 +8,6 @@ tags:
   - planning
 MOCs:
 ---
+# DB Design
+
+![[Pasted image 20260519140816.png]]
