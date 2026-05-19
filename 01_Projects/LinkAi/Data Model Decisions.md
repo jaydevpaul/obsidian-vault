@@ -6,6 +6,9 @@ finished:
 tags:
   - Linkai
   - planning
+  - architecture
+  - phase2
+  - data-model
 MOCs:
 ---
 # DB Design
