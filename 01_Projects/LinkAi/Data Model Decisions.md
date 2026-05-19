@@ -12,7 +12,7 @@ tags:
 MOCs:
 ---
 
-# Data Model Decision Record
+#  Data Model Decision Record
 
 This document captures every data-model decision made so far in Phase 2. The conceptual model is locked. Field types, nullability rules, indexing strategy, and database choice are still open and are the subject of the next conversations.
 
